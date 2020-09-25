@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AppConfig>
+    <mycache address="139.196.82.103:6378" password="lyq888" db="0" />
+    <myredis address="139.196.82.103:6378" password="lyq888" db="0" />
+    <listen_port port="3000" />
+    <iplimit ip="127.0.0.1" />
+    <iplimit ip="180.156.195.211" />
+</AppConfig>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AppConfig>
+    <mycache address="string" password="string" db="int" />
+    <myredis address="string" password="string" db="int" />
+    <listen_port port="int" />
+    <iplimit ip="string" container_="vector" />
+</AppConfig>

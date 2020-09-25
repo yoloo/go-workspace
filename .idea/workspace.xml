@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2299789-af76-4ee1-8e32-4ec3de748a56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.5/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1hzFx5wp6yOmylJxjxyTHij3RpE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build helloworld">
+    <configuration name="go build go-module-examples" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$/go-module-examples" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/go-module-examples/main.go" />
+      <package value="go-module-examples" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build helloworld" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$/helloworld" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/helloworld/main.go" />
+      <package value="helloworld" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/zt2-webservice/main/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build helloworld" />
+        <item itemvalue="Go Build.go build go-module-examples" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="696" y="400" key="#Go_Modules" timestamp="1601018223699">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="696" y="400" key="#Go_Modules/0.0.1792.1120@0.0.1792.1120" timestamp="1601018223699" />
+    <state x="629" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601027677046">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="629" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1601027677046" />
+    <state x="795" y="429" key="EnvironmentVariablesDialog" timestamp="1601006668691">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="795" y="429" key="EnvironmentVariablesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1601006668691" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1601031080237">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1601031080237" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1601031080236">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1601031080236" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1601031080236">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1601031080236" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1601031080237">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1601031080237" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1601006880878">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1601006880878" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1601020630247">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1601020630247" />
+  </component>
+</project>
